@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932fcef1b4b76f4fa499c1adc9dca16, type: 3}
+  m_Name: MountainLUT
+  m_EditorClassIdentifier: 
+  _mapData: {fileID: 11400000, guid: 4d6a54790ba241e46965fceecefd9237, type: 2}
+  _lookupDict:
+    m_keys:
+    - tm_env_prop_mountain_layout_1_x1
+    - tm_env_prop_mountain_layout_2_x1
+    - tm_env_prop_mountain_layout_3_x1
+    - tm_env_prop_mountain_layout_4_x1
+    - tm_env_prop_mountain_1x1_bush_x1
+    - tm_env_prop_mountain_1x1_fire_safety_sign_nw_x1
+    - tm_env_prop_mountain_1x1_fire_safety_sign_se_x1
+    - tm_env_prop_mountain_1x1_grassy_rock_x1
+    - tm_env_prop_mountain_1x1_mushroom_x1
+    - tm_env_prop_mountain_1x1_shrub_x1
+    - tm_env_prop_mountain_1x1_small_rock_x1
+    - tm_env_prop_mountain_1x1_small_shrub_x1
+    - tm_env_prop_mountain_2x1_stone_bench_se_x1
+    - tm_env_prop_mountain_2x2_camp_fire_x1
+    m_values:
+    - Mountain 1
+    - Mountain 2
+    - Mountain 3
+    - Mountain 4
+    - Bush
+    - Fire Safety Sign Nw
+    - Fire Safety Sign Se
+    - Grassy Rock
+    - Mushroom
+    - Shrub
+    - Small Rock
+    - Small Shrub
+    - Stone Bench Se
+    - Camp Fire
+  _reverseDict:
+    m_keys:
+    - Mountain 1
+    - Mountain 2
+    - Mountain 3
+    - Mountain 4
+    - Bush
+    - Fire Safety Sign Nw
+    - Fire Safety Sign Se
+    - Grassy Rock
+    - Mushroom
+    - Shrub
+    - Small Rock
+    - Small Shrub
+    - Stone Bench Se
+    - Camp Fire
+    m_values:
+    - tm_env_prop_mountain_layout_1_x1
+    - tm_env_prop_mountain_layout_2_x1
+    - tm_env_prop_mountain_layout_3_x1
+    - tm_env_prop_mountain_layout_4_x1
+    - tm_env_prop_mountain_1x1_bush_x1
+    - tm_env_prop_mountain_1x1_fire_safety_sign_nw_x1
+    - tm_env_prop_mountain_1x1_fire_safety_sign_se_x1
+    - tm_env_prop_mountain_1x1_grassy_rock_x1
+    - tm_env_prop_mountain_1x1_mushroom_x1
+    - tm_env_prop_mountain_1x1_shrub_x1
+    - tm_env_prop_mountain_1x1_small_rock_x1
+    - tm_env_prop_mountain_1x1_small_shrub_x1
+    - tm_env_prop_mountain_2x1_stone_bench_se_x1
+    - tm_env_prop_mountain_2x2_camp_fire_x1

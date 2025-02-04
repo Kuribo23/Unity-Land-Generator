@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06578cbb985948c48bf048785603d097, type: 3}
+  m_Name: SwampData
+  m_EditorClassIdentifier: 
+  _parcelName: 
+  _terrainName: swamp
+  _LUT: {fileID: 11400000, guid: 27031912c610cd34494ec38684a7182a, type: 2}
+  _library: {fileID: 11400000, guid: 88589ea10eb2743468600b42772b39c9, type: 2}
+  _distribution: {fileID: 11400000, guid: 2d8e65884df034a4895fa2346a8713c5, type: 2}
+  _terrainSprites:
+  - {fileID: 21300000, guid: bafb1869706b77a48a01c3652857fd8f, type: 3}
+  - {fileID: 21300000, guid: 2c759f19b2090ac46a7e63cd86121c28, type: 3}
+  - {fileID: 21300000, guid: f2ba9f9b60fb8f548bf182128a0cfd6c, type: 3}
+  - {fileID: 21300000, guid: 2f89d3eff17291f439056adf05733e7d, type: 3}
+  _overlayJSONS:
+  - {fileID: 4900000, guid: 936e6a8c2023d7846bd6d381a2a0b727, type: 3}
+  - {fileID: 4900000, guid: 974e5dbad759ce3439d4bd3618db1f32, type: 3}
+  - {fileID: 4900000, guid: f2af780359694e341a8e66ab1bc83e6d, type: 3}
+  - {fileID: 4900000, guid: 63b22dda9d1c7cc4bbd0590d87b09c61, type: 3}
+  _safeSpotsJSONS:
+  - {fileID: 4900000, guid: 9d3fb07bafd5f5b42998f6ab8fb8a5df, type: 3}
+  - {fileID: 4900000, guid: 713adcc122702c84cb15e69d5918c1f9, type: 3}
+  - {fileID: 4900000, guid: 5b9a77ab23d062442bfab017eea1cac3, type: 3}
+  - {fileID: 4900000, guid: 2430699ac4765454182d48117643b4f8, type: 3}
+  _props_1x1:
+  - {fileID: 21300000, guid: 6d0c9d560c2fdeb4e8feda35e87370ba, type: 3}
+  - {fileID: 21300000, guid: 216c2ca453e714440bd9fc311bfc5f43, type: 3}
+  - {fileID: 21300000, guid: a29457d412605024e809797659bd1d86, type: 3}
+  - {fileID: 21300000, guid: 538f5159bd6953c41b8cd7952af92db5, type: 3}
+  - {fileID: 21300000, guid: 5b78bbe375a5db9459b85b07e2d7d2d3, type: 3}
+  - {fileID: 21300000, guid: a02590f5770e0584d942ef0a96adef56, type: 3}
+  - {fileID: 21300000, guid: 51d12780cbff3c54695ca7ce2f0510f2, type: 3}
+  - {fileID: 21300000, guid: 15e1fdc0ea40e9340ab6d9451bfb28e1, type: 3}
+  - {fileID: 21300000, guid: b9e85c18bc0f9d6408237250e381a776, type: 3}
+  _props_2x1:
+  - {fileID: 21300000, guid: 0d9d52a84e549e844a8a8025b18d7051, type: 3}
+  _props_2x2:
+  - {fileID: 21300000, guid: 3d60e4d657bfc5d4fa237e02a63b893b, type: 3}
+  _monDenDict:
+    m_keys:
+    - se
+    - sw
+    m_values:
+    - {fileID: 21300000, guid: 226c03f1cfd2c5d40b2525f18cf56166, type: 3}
+    - {fileID: 21300000, guid: 30ebf8795227d92469e50d120de38c4c, type: 3}
+  _maxSlots1X1: 6
+  _maxSlots2X1: 1
+  _maxSlots2X2: 1
+  _maxSlotsDen: 1
+  _probSlots1x1:
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  _probSlots2x1:
+  - 0.5
+  _probSlots2x2:
+  - 0.5
+  _probMonsterDen: 0.2
+  _selectedFrame: Purple
+  _selectedFrameSprite: {fileID: 21300000, guid: 95bad3023a33fef4d983bbaf65892235, type: 3}
+  _artifactSlots: 1
+  _symbol: 10023
+  _bronzeChance: 0.5
+  _silverChance: 0.3
+  _goldChance: 0.15
+  _aetherealChance: 0.05
+  _weatherProbability: 0.33
+  _randomMap: {fileID: 0}
+  _corrOverlayJSON: {fileID: 0}
+  _corrSafeSpotJSON: {fileID: 0}
+  _randomProps_1x1:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _randomProps_2x1:
+  - {fileID: 0}
+  _randomProps_2x2:
+  - {fileID: 0}
+  _hasDen: 0
+  _monsterName: 
+  _monsterAnimator: {fileID: 0}
+  _selectedWeather: None
+  _selectedWeatherAnimator: {fileID: 0}
+  _hasSlime: 0
+  _slimeProbablility: 0.3
+  _chosenSlimeName: 
+  _chosenSlimeAnimator: {fileID: 0}

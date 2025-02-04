@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932fcef1b4b76f4fa499c1adc9dca16, type: 3}
+  m_Name: SnowyMountainLUT
+  m_EditorClassIdentifier: 
+  _mapData: {fileID: 11400000, guid: 4ff707fff972f5a4283dc26b3ba2eedc, type: 2}
+  _lookupDict:
+    m_keys:
+    - tm_env_prop_snowy_mountain_layout_1_x1
+    - tm_env_prop_snowy_mountain_layout_2_x1
+    - tm_env_prop_snowy_mountain_layout_3_x1
+    - tm_env_prop_snowy_mountain_layout_4_x1
+    - tm_env_prop_snowy_mountain_1x1_glowy_rock_x1
+    - tm_env_prop_snowy_mountain_1x1_snow_pile_x1
+    - tm_env_prop_snowy_mountain_1x1_snowy_bush_small_x1
+    - tm_env_prop_snowy_mountain_1x1_snowy_bush_x1
+    - tm_env_prop_snowy_mountain_1x1_snowy_fur_tree_x1
+    - tm_env_prop_snowy_mountain_1x1_snowy_rock_x1
+    - tm_env_prop_snowy_mountain_2x1_log_x1
+    - tm_env_prop_snowy_mountain_2x2_wood_pile_x1
+    m_values:
+    - Snowy Mountain 1
+    - Snowy Mountain 2
+    - Snowy Mountain 3
+    - Snowy Mountain 4
+    - Glowy Rock
+    - Snow Pile
+    - Snowy Bush Small
+    - Snowy Bush
+    - Snowy Fur Tree
+    - Snowy Rock
+    - Log
+    - Wood Pile
+  _reverseDict:
+    m_keys:
+    - Snowy Mountain 1
+    - Snowy Mountain 2
+    - Snowy Mountain 3
+    - Snowy Mountain 4
+    - Glowy Rock
+    - Snow Pile
+    - Snowy Bush Small
+    - Snowy Bush
+    - Snowy Fur Tree
+    - Snowy Rock
+    - Log
+    - Wood Pile
+    m_values:
+    - tm_env_prop_snowy_mountain_layout_1_x1
+    - tm_env_prop_snowy_mountain_layout_2_x1
+    - tm_env_prop_snowy_mountain_layout_3_x1
+    - tm_env_prop_snowy_mountain_layout_4_x1
+    - tm_env_prop_snowy_mountain_1x1_glowy_rock_x1
+    - tm_env_prop_snowy_mountain_1x1_snow_pile_x1
+    - tm_env_prop_snowy_mountain_1x1_snowy_bush_small_x1
+    - tm_env_prop_snowy_mountain_1x1_snowy_bush_x1
+    - tm_env_prop_snowy_mountain_1x1_snowy_fur_tree_x1
+    - tm_env_prop_snowy_mountain_1x1_snowy_rock_x1
+    - tm_env_prop_snowy_mountain_2x1_log_x1
+    - tm_env_prop_snowy_mountain_2x2_wood_pile_x1

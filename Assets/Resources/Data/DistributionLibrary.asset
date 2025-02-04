@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 251b3a8ca27860b47bd789af223df78f, type: 3}
+  m_Name: DistributionLibrary
+  m_EditorClassIdentifier: 
+  _totalCount: 10000
+  _remainingCount: 0
+  _slotPercentage:
+  - 0.45
+  - 0.3
+  - 0.175
+  - 0.075
+  _slotDistribution: 00000000000000000000000000000000
+  _totalArtifacts: 10000
+  _remainingArtifacts: 0
+  _artifactPercentage:
+  - 0.725
+  - 0.2
+  - 0.05
+  - 0.02
+  - 0.005
+  _artifactDistribution: 0000000000000000000000000000000000000000
+  _totalArtifactRarities: 10000
+  _remainingArtifactRarities: 6200
+  _artifactRarityPercentage:
+  - 0.7
+  - 0.2
+  - 0.1
+  _artifactRarityDistribution: 010000000200000003000000
+  _totalMap: 10000
+  _remainingMapCount: 0
+  _mapPercentage:
+  - 0.14285
+  - 0.1429
+  - 0.14285
+  - 0.143
+  - 0.14285
+  - 0.1429
+  - 0.14285
+  _mapDistribution: 00000000000000000000000000000000000000000000000000000000

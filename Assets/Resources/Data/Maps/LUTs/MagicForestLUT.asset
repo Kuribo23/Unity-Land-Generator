@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932fcef1b4b76f4fa499c1adc9dca16, type: 3}
+  m_Name: MagicForestLUT
+  m_EditorClassIdentifier: 
+  _mapData: {fileID: 11400000, guid: 1e9ed0ac13ffefd4d83a249c060c785b, type: 2}
+  _lookupDict:
+    m_keys:
+    - tm_env_prop_magic_forest_layout_1_x1
+    - tm_env_prop_magic_forest_layout_2_x1
+    - tm_env_prop_magic_forest_layout_3_x1
+    - tm_env_prop_magic_forest_layout_4_x1
+    - tm_env_prop_magic_forest_1x1_aethereal_flowers_x1
+    - tm_env_prop_magic_forest_1x1_floral_grass_patch_x1
+    - tm_env_prop_magic_forest_1x1_magical_lamp_x1
+    - tm_env_prop_magic_forest_1x1_magical_rock_x1
+    - tm_env_prop_magic_forest_1x1_mushrooms_large_x1
+    - tm_env_prop_magic_forest_1x1_mushrooms_small_x1
+    - tm_env_prop_magic_forest_2x1_log_x1
+    - tm_env_prop_magic_forest_2x2_pond_x1
+    m_values:
+    - Magic Forest 1
+    - Magic Forest 2
+    - Magic Forest 3
+    - Magic Forest 4
+    - Aethereal Flowers
+    - Floral Grass Patch
+    - Magical Lamp
+    - Magical Rock
+    - Mushrooms Large
+    - Mushrooms Small
+    - Log
+    - Pond
+  _reverseDict:
+    m_keys:
+    - Magic Forest 1
+    - Magic Forest 2
+    - Magic Forest 3
+    - Magic Forest 4
+    - Aethereal Flowers
+    - Floral Grass Patch
+    - Magical Lamp
+    - Magical Rock
+    - Mushrooms Large
+    - Mushrooms Small
+    - Log
+    - Pond
+    m_values:
+    - tm_env_prop_magic_forest_layout_1_x1
+    - tm_env_prop_magic_forest_layout_2_x1
+    - tm_env_prop_magic_forest_layout_3_x1
+    - tm_env_prop_magic_forest_layout_4_x1
+    - tm_env_prop_magic_forest_1x1_aethereal_flowers_x1
+    - tm_env_prop_magic_forest_1x1_floral_grass_patch_x1
+    - tm_env_prop_magic_forest_1x1_magical_lamp_x1
+    - tm_env_prop_magic_forest_1x1_magical_rock_x1
+    - tm_env_prop_magic_forest_1x1_mushrooms_large_x1
+    - tm_env_prop_magic_forest_1x1_mushrooms_small_x1
+    - tm_env_prop_magic_forest_2x1_log_x1
+    - tm_env_prop_magic_forest_2x2_pond_x1

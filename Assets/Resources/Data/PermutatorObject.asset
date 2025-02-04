@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eda23efa7a060ff46bb636be753e244a, type: 3}
+  m_Name: PermutatorObject
+  m_EditorClassIdentifier: 
+  _distributionLibrary: {fileID: 11400000, guid: 2d8e65884df034a4895fa2346a8713c5, type: 2}
+  _mapData:
+  - {fileID: 11400000, guid: 8aca73c220c0d3d4e943d1d211da1593, type: 2}
+  - {fileID: 11400000, guid: ce17692700e866a458a5af8081a65235, type: 2}
+  - {fileID: 11400000, guid: 29e9e4ee106610f48b988fc74bb909ea, type: 2}
+  - {fileID: 11400000, guid: 1e9ed0ac13ffefd4d83a249c060c785b, type: 2}
+  - {fileID: 11400000, guid: 4d6a54790ba241e46965fceecefd9237, type: 2}
+  - {fileID: 11400000, guid: 4ff707fff972f5a4283dc26b3ba2eedc, type: 2}
+  - {fileID: 11400000, guid: 0129dc5cf4a71ee45afc329ace8b3755, type: 2}

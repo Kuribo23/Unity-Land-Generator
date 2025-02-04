@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fd7a7dfadf0898469fda85f4f4bd6f7, type: 3}
+  m_Name: Library
+  m_EditorClassIdentifier: 
+  _frameLibrary:
+    m_keys:
+    - Purple
+    - Red
+    - Green
+    - Blue
+    m_values:
+    - {fileID: 21300000, guid: 95bad3023a33fef4d983bbaf65892235, type: 3}
+    - {fileID: 21300000, guid: a5aeeed89a7da194798cd6f85e3e1e8b, type: 3}
+    - {fileID: 21300000, guid: 0db82a3a116e7ce40bdac727a23746e7, type: 3}
+    - {fileID: 21300000, guid: 842bb6bea4ade154f85a362fc8bd5d68, type: 3}
+  _normalArtifactLibrary:
+    m_keys:
+    - Crit Rate
+    - Damage Bonus
+    - Def Buff
+    - HP Buff
+    - Synthesis Time Deduce
+    m_values:
+    - {fileID: 21300000, guid: bb508f30f27d56d40951759b51b11816, type: 3}
+    - {fileID: 21300000, guid: 2a320db51b7b6fc48b9671f9297643e6, type: 3}
+    - {fileID: 21300000, guid: 17e3e6438525a1c4690bdaa3b34b0506, type: 3}
+    - {fileID: 21300000, guid: 0e8ecd99fc4c64843bd87bd367acd97e, type: 3}
+    - {fileID: 21300000, guid: 47b62dcedb5dda6439017de8ddf55573, type: 3}
+  _rareArtifactLibrary:
+    m_keys:
+    - Item Quality
+    - Item Quantity
+    m_values:
+    - {fileID: 21300000, guid: d1f1437a446a86e468c42a64696dba46, type: 3}
+    - {fileID: 21300000, guid: f883598836cbd1544a834dd4dcc0e886, type: 3}
+  _legendaryArtifactLibrary:
+    m_keys:
+    - Gathering
+    - More Energy
+    - XP Buff
+    m_values:
+    - {fileID: 21300000, guid: a5d1ebb369f7ab64da839f14df4ec9b2, type: 3}
+    - {fileID: 21300000, guid: b91426ccf705daf42a15b2fb060ec995, type: 3}
+    - {fileID: 21300000, guid: 539a7d8ab7eeaf8428356f489dbd499d, type: 3}
+  _terrainLibrary:
+    m_keys:
+    - canyon
+    - crystal_beach
+    - grasslands
+    - magic_forest
+    - mountain
+    - snowy_mountain
+    - swamp
+    m_values:
+    - {fileID: 11400000, guid: 8aca73c220c0d3d4e943d1d211da1593, type: 2}
+    - {fileID: 11400000, guid: ce17692700e866a458a5af8081a65235, type: 2}
+    - {fileID: 11400000, guid: 29e9e4ee106610f48b988fc74bb909ea, type: 2}
+    - {fileID: 11400000, guid: 1e9ed0ac13ffefd4d83a249c060c785b, type: 2}
+    - {fileID: 11400000, guid: 4d6a54790ba241e46965fceecefd9237, type: 2}
+    - {fileID: 11400000, guid: 4ff707fff972f5a4283dc26b3ba2eedc, type: 2}
+    - {fileID: 11400000, guid: 0129dc5cf4a71ee45afc329ace8b3755, type: 2}
+  _weatherLibrary:
+    m_keys:
+    - Clouds
+    - Dark Energy
+    - Dusk Storm
+    - Heavenly Rays
+    - Rainbow
+    - Swamp Fog
+    - Winds
+    m_values:
+    - {fileID: 9100000, guid: 6adcbe87853d940458e0f13f2ea3ddb0, type: 2}
+    - {fileID: 9100000, guid: 618f320864da3614f9966d6bdb5d7e9a, type: 2}
+    - {fileID: 9100000, guid: 5cf41f99f8ac59148a5bdb5eca623e00, type: 2}
+    - {fileID: 9100000, guid: 3f216d6dc3bc5974089b862704c6f0dc, type: 2}
+    - {fileID: 9100000, guid: cec1288a5da320244afb706c79ab8da8, type: 2}
+    - {fileID: 9100000, guid: 610f6c3e8584db94c9e408d7c2f23df2, type: 2}
+    - {fileID: 9100000, guid: 696c2885fc27e4140ac0bd7013725bc6, type: 2}
+  _slimeLibrary:
+    m_keys:
+    - Orange Slime
+    - Blue Slime
+    - Green Slime
+    - Plum Slime
+    - Gold Slime
+    - Crystal Slime
+    - Red Slime
+    - Shiny Blue Slime
+    - Shiny Brown Slime
+    - Shiny Gold Slime
+    m_values:
+    - {fileID: 9100000, guid: f231a8b4269afdd4d888e09cf19d0b3a, type: 2}
+    - {fileID: 9100000, guid: f0838da85d6d96c4c8e3b36fed2cdd44, type: 2}
+    - {fileID: 9100000, guid: 976d750caa242db4b8f55525b3d6f50e, type: 2}
+    - {fileID: 9100000, guid: 7a973288dec4fbb4f8c67e3e6b117044, type: 2}
+    - {fileID: 9100000, guid: 33ebc9dfd7fc96d48b862fe5bcf4cd6e, type: 2}
+    - {fileID: 9100000, guid: 33dd8e264bcfae94a83e7495d2b60452, type: 2}
+    - {fileID: 9100000, guid: 1e37c710c9f91d44d81588975978fe24, type: 2}
+    - {fileID: 9100000, guid: 6c40f614aefb471469663cd246936aff, type: 2}
+    - {fileID: 9100000, guid: 8f3e44dedd75f9f43a632379597965b8, type: 2}
+    - {fileID: 9100000, guid: 969546f6244c8ec4aa2a28755ca10638, type: 2}
+  _monsterLibrary:
+    m_keys:
+    - Boar Babes
+    - Bushlings
+    - Red Fox
+    - Mossling
+    - Mushroom
+    - piglet
+    - Wolf Pup
+    m_values:
+    - {fileID: 9100000, guid: a90eef5a0ad0fce4090c1b20b2ed52f9, type: 2}
+    - {fileID: 9100000, guid: d6cbd158b6e12d1409f891818fc8ef44, type: 2}
+    - {fileID: 9100000, guid: 0f76a44abf8448f4599f7ee49ef853d3, type: 2}
+    - {fileID: 9100000, guid: 73442834531293147ac94c0238dc8b4c, type: 2}
+    - {fileID: 9100000, guid: 5140b8c2c9d35414688859c3d78573b5, type: 2}
+    - {fileID: 9100000, guid: 31360ffa0e474464598f279c30f418a5, type: 2}
+    - {fileID: 9100000, guid: 1f6d8d321e6b084488a86d8cb1292abd, type: 2}
+  _distributionLibrary: {fileID: 11400000, guid: 2d8e65884df034a4895fa2346a8713c5, type: 2}
+  _permutatorObject: {fileID: 11400000, guid: 556163d82358ded4b9183ec03de41efb, type: 2}
+  _count: 10000
+  _startingNo: 0

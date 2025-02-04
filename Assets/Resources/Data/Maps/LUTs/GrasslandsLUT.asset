@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0932fcef1b4b76f4fa499c1adc9dca16, type: 3}
+  m_Name: GrasslandsLUT
+  m_EditorClassIdentifier: 
+  _mapData: {fileID: 11400000, guid: 29e9e4ee106610f48b988fc74bb909ea, type: 2}
+  _lookupDict:
+    m_keys:
+    - tm_env_prop_grasslands_layout_1_x1
+    - tm_env_prop_grasslands_layout_2_x1
+    - tm_env_prop_grasslands_layout_3_x1
+    - tm_env_prop_grasslands_layout_4_x1
+    - tm_env_prop_grasslands_1x1_blue_flower_patch_x1
+    - tm_env_prop_grasslands_1x1_glowing_red_crystals_x1
+    - tm_env_prop_grasslands_1x1_glowy_blue_crystals_2_x1
+    - tm_env_prop_grasslands_1x1_glowy_blue_crystals_x1
+    - tm_env_prop_grasslands_1x1_large_bush_x1
+    - tm_env_prop_grasslands_1x1_large_glowing_red_crystals_x1
+    - tm_env_prop_grasslands_1x1_large_grass_patch_x1
+    - tm_env_prop_grasslands_1x1_large_rock_x1
+    - tm_env_prop_grasslands_1x1_mushrooms_x1
+    - tm_env_prop_grasslands_1x1_pink_daisies_x1
+    - tm_env_prop_grasslands_1x1_purple_daisies_x1
+    - tm_env_prop_grasslands_1x1_red_flower_patch_x1
+    - tm_env_prop_grasslands_1x1_rock_formation_x1
+    - tm_env_prop_grasslands_1x1_rock_pile_x1
+    - tm_env_prop_grasslands_1x1_shroomy_grass_x1
+    - tm_env_prop_grasslands_1x1_shroomy_rocks_x1
+    - tm_env_prop_grasslands_1x1_small_bush_x1
+    - tm_env_prop_grasslands_1x1_white_daisies_x1
+    - tm_env_prop_grasslands_1x1_yellow_daisies_x1
+    - tm_env_prop_grasslands_2x1_bench_x1
+    - tm_env_prop_grasslands_2x2_bush_tree_x1
+    - tm_env_prop_grasslands_2x2_large_tree_x1
+    - tm_env_prop_grasslands_2x2_small_tree_x1
+    m_values:
+    - Grasslands 1
+    - Grasslands 2
+    - Grasslands 3
+    - Grasslands 4
+    - Blue Flower Patch
+    - Glowing Red Crystals
+    - Glowy Blue Crystals 2
+    - Glowy Blue Crystals
+    - Large Bush
+    - Large Glowing Red Crystals
+    - Large Grass Patch
+    - Large Rock
+    - Mushrooms
+    - Pink Daisies
+    - Purple Daisies
+    - Red Flower Patch
+    - Rock Formation
+    - Rock Pile
+    - Shroomy Grass
+    - Shroomy Rocks
+    - Small Bush
+    - White Daisies
+    - Yellow Daisies
+    - Bench
+    - Bush Tree
+    - Large Tree
+    - Small Tree
+  _reverseDict:
+    m_keys:
+    - Grasslands 1
+    - Grasslands 2
+    - Grasslands 3
+    - Grasslands 4
+    - Blue Flower Patch
+    - Glowing Red Crystals
+    - Glowy Blue Crystals 2
+    - Glowy Blue Crystals
+    - Large Bush
+    - Large Glowing Red Crystals
+    - Large Grass Patch
+    - Large Rock
+    - Mushrooms
+    - Pink Daisies
+    - Purple Daisies
+    - Red Flower Patch
+    - Rock Formation
+    - Rock Pile
+    - Shroomy Grass
+    - Shroomy Rocks
+    - Small Bush
+    - White Daisies
+    - Yellow Daisies
+    - Bench
+    - Bush Tree
+    - Large Tree
+    - Small Tree
+    m_values:
+    - tm_env_prop_grasslands_layout_1_x1
+    - tm_env_prop_grasslands_layout_2_x1
+    - tm_env_prop_grasslands_layout_3_x1
+    - tm_env_prop_grasslands_layout_4_x1
+    - tm_env_prop_grasslands_1x1_blue_flower_patch_x1
+    - tm_env_prop_grasslands_1x1_glowing_red_crystals_x1
+    - tm_env_prop_grasslands_1x1_glowy_blue_crystals_2_x1
+    - tm_env_prop_grasslands_1x1_glowy_blue_crystals_x1
+    - tm_env_prop_grasslands_1x1_large_bush_x1
+    - tm_env_prop_grasslands_1x1_large_glowing_red_crystals_x1
+    - tm_env_prop_grasslands_1x1_large_grass_patch_x1
+    - tm_env_prop_grasslands_1x1_large_rock_x1
+    - tm_env_prop_grasslands_1x1_mushrooms_x1
+    - tm_env_prop_grasslands_1x1_pink_daisies_x1
+    - tm_env_prop_grasslands_1x1_purple_daisies_x1
+    - tm_env_prop_grasslands_1x1_red_flower_patch_x1
+    - tm_env_prop_grasslands_1x1_rock_formation_x1
+    - tm_env_prop_grasslands_1x1_rock_pile_x1
+    - tm_env_prop_grasslands_1x1_shroomy_grass_x1
+    - tm_env_prop_grasslands_1x1_shroomy_rocks_x1
+    - tm_env_prop_grasslands_1x1_small_bush_x1
+    - tm_env_prop_grasslands_1x1_white_daisies_x1
+    - tm_env_prop_grasslands_1x1_yellow_daisies_x1
+    - tm_env_prop_grasslands_2x1_bench_x1
+    - tm_env_prop_grasslands_2x2_bush_tree_x1
+    - tm_env_prop_grasslands_2x2_large_tree_x1
+    - tm_env_prop_grasslands_2x2_small_tree_x1

@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06578cbb985948c48bf048785603d097, type: 3}
+  m_Name: CanyonData
+  m_EditorClassIdentifier: 
+  _parcelName: Aethereal Parcel #00096
+  _terrainName: canyon
+  _LUT: {fileID: 11400000, guid: 5017126e38c29aa499c9b4307dd0c9a0, type: 2}
+  _library: {fileID: 11400000, guid: 88589ea10eb2743468600b42772b39c9, type: 2}
+  _distribution: {fileID: 11400000, guid: 2d8e65884df034a4895fa2346a8713c5, type: 2}
+  _terrainSprites:
+  - {fileID: 21300000, guid: 3350ed48b418f2542b8e85a46265f47e, type: 3}
+  - {fileID: 21300000, guid: 0523da5cf00ae464c94b9fbf55d42e9a, type: 3}
+  - {fileID: 21300000, guid: 3d333e15bcc54a64da4c8b22f184e0b3, type: 3}
+  - {fileID: 21300000, guid: c9a31423c86c7e340b9613425c0a2a98, type: 3}
+  _overlayJSONS:
+  - {fileID: 4900000, guid: 6911e364c43921640a022bda539f0c27, type: 3}
+  - {fileID: 4900000, guid: cd76d0039b932884c985124d1cc311d8, type: 3}
+  - {fileID: 4900000, guid: accf20d1dc3059547be7bf8f16a501c0, type: 3}
+  - {fileID: 4900000, guid: 567826a5740290c40b08d09352adead6, type: 3}
+  _safeSpotsJSONS:
+  - {fileID: 4900000, guid: 2043d824e69136c4090381bf41444a46, type: 3}
+  - {fileID: 4900000, guid: a5fa836389484434db42bf23eb2e4d56, type: 3}
+  - {fileID: 4900000, guid: 656fdee822d67ae49842b0c960d1ae1b, type: 3}
+  - {fileID: 4900000, guid: d9ff8babe13405143a9a963c66e16adb, type: 3}
+  _props_1x1:
+  - {fileID: 21300000, guid: d9ad5d6aaba31b04fa02fe707097bdbc, type: 3}
+  - {fileID: 21300000, guid: 57e7ddd7ee60f23488b9b7041b5c7853, type: 3}
+  - {fileID: 21300000, guid: f2864dce6fb3fc7478bb13de1ee984f9, type: 3}
+  - {fileID: 21300000, guid: 79a34338b7484424b9a13cf2ebf2f443, type: 3}
+  - {fileID: 21300000, guid: 3c2ea57cb9ff4a247b881225e03d40fa, type: 3}
+  - {fileID: 21300000, guid: 1ce175858e2afcc4a82c007f465725bb, type: 3}
+  - {fileID: 21300000, guid: f060dab8df48a9245819d7722c195223, type: 3}
+  - {fileID: 21300000, guid: e207ebb583157af439a2da1533c7c2b9, type: 3}
+  - {fileID: 21300000, guid: ad9ba9683945c00439092b97935071a5, type: 3}
+  - {fileID: 21300000, guid: d22cf6d21d772ca49be2b5d2f01eadf2, type: 3}
+  - {fileID: 21300000, guid: 3d8d3193b6bf80944bd5bbda5de00efa, type: 3}
+  - {fileID: 21300000, guid: edc244297ed1db34dbd6f52cb6fb19cc, type: 3}
+  - {fileID: 21300000, guid: 4d13d35ac867d754993aa15bdfad8908, type: 3}
+  - {fileID: 21300000, guid: 27497c2b175dff74daf8e43404654682, type: 3}
+  - {fileID: 21300000, guid: 3757e1d3a91dc97478e3f678697eedf3, type: 3}
+  _props_2x1:
+  - {fileID: 21300000, guid: 5f833d4bf0b53f04f991ce08af88b33a, type: 3}
+  - {fileID: 21300000, guid: 0f755af5f07c1d7428282f765d57239d, type: 3}
+  - {fileID: 21300000, guid: dbff58be477b72748aff2a48d0f62d4a, type: 3}
+  _props_2x2:
+  - {fileID: 21300000, guid: a12d12c05331dc44facddbfe0eefd3d5, type: 3}
+  _monDenDict:
+    m_keys:
+    - se
+    - sw
+    m_values:
+    - {fileID: 21300000, guid: 289e537039e576c46a4717c4075391bb, type: 3}
+    - {fileID: 21300000, guid: 52e61307cb643594c8830d9d78021988, type: 3}
+  _maxSlots1X1: 6
+  _maxSlots2X1: 1
+  _maxSlots2X2: 1
+  _maxSlotsDen: 1
+  _probSlots1x1:
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  - 0.5
+  _probSlots2x1:
+  - 0.5
+  _probSlots2x2:
+  - 0.5
+  _probMonsterDen: 0.2
+  _selectedFrame: Purple
+  _selectedFrameSprite: {fileID: 21300000, guid: 95bad3023a33fef4d983bbaf65892235, type: 3}
+  _artifactSlots: 1
+  _symbol: 10023
+  _bronzeChance: 0.5
+  _silverChance: 0.3
+  _goldChance: 0.15
+  _aetherealChance: 0.05
+  _weatherProbability: 0.33
+  _randomMap: {fileID: 21300000, guid: 0523da5cf00ae464c94b9fbf55d42e9a, type: 3}
+  _corrOverlayJSON: {fileID: 4900000, guid: cd76d0039b932884c985124d1cc311d8, type: 3}
+  _corrSafeSpotJSON: {fileID: 4900000, guid: a5fa836389484434db42bf23eb2e4d56, type: 3}
+  _randomProps_1x1:
+  - {fileID: 21300000, guid: 27497c2b175dff74daf8e43404654682, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 57e7ddd7ee60f23488b9b7041b5c7853, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _randomProps_2x1:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _randomProps_2x2:
+  - {fileID: 0}
+  _hasDen: 0
+  _monsterName: 
+  _monsterAnimator: {fileID: 0}
+  _selectedWeather: None
+  _selectedWeatherAnimator: {fileID: 0}
+  _hasSlime: 0
+  _slimeProbablility: 0.3
+  _chosenSlimeName: 
+  _chosenSlimeAnimator: {fileID: 0}
